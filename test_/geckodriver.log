@@ -1,0 +1,983 @@
+1669528890876	geckodriver	INFO	Listening on 127.0.0.1:62245
+1669528893464	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileKyRC7L"
+1669528897414	geckodriver	INFO	Listening on 127.0.0.1:62255
+1669528900443	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileSOOvBG"
+1669528901079	geckodriver	INFO	Listening on 127.0.0.1:62263
+1669528904815	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile0kLnbG"
+1669528912146	Marionette	INFO	Marionette enabled
+1669528912151	Marionette	INFO	Listening on port 62273
+Read port: 62273
+Shutting down due to socket process crash.
+1669528913929	Marionette	INFO	Stopped listening on port 62273
+1669528918719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1669528918863	geckodriver	INFO	Listening on 127.0.0.1:62276
+1669528921900	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilet2w5wG"
+1669528924342	Marionette	INFO	Marionette enabled
+1669528924349	Marionette	INFO	Listening on port 62313
+Read port: 62313
+1669528929647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilet2w5wG\\search.json.mozlz4", (void 0)))
+1669528988010	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669529026476	Marionette	INFO	Stopped listening on port 62313
+1669529031096	geckodriver	INFO	Listening on 127.0.0.1:62518
+1669529033890	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilexG4Ygt"
+1669529038215	Marionette	INFO	Marionette enabled
+1669529038222	Marionette	INFO	Listening on port 62534
+Read port: 62534
+1669529038523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilexG4Ygt\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669529096383	Marionette	INFO	Stopped listening on port 62534
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown@resource://gre/modules/TelemetryControllerParent.jsm:1004:19
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:916:18
+trigger@resource://gre/modules/AsyncShutdown.jsm:732:23
+_wait@resource://gre/modules/AsyncShutdown.jsm:884:15
+wait@resource://gre/modules/AsyncShutdown.jsm:865:34
+observe@resource://gre/modules/AsyncShutdown.jsm:542:10
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1669529534610	geckodriver	INFO	Listening on 127.0.0.1:63968
+1669529537073	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileoYCt0C"
+1669529545557	Marionette	INFO	Marionette enabled
+1669529545614	Marionette	INFO	Listening on port 63999
+Read port: 63999
+1669529547874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileoYCt0C\\search.json.mozlz4", (void 0)))
+1669529562496	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1669529585364	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669529596139	Marionette	INFO	Stopped listening on port 63999
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1669529598670	geckodriver	INFO	Listening on 127.0.0.1:64109
+1669529601611	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileATBytV"
+1669529602443	Marionette	INFO	Marionette enabled
+1669529602450	Marionette	INFO	Listening on port 64123
+Read port: 64123
+1669529603667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileATBytV\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:29
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+1669529708739	Marionette	INFO	Stopped listening on port 64123
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669529709128	geckodriver	INFO	Listening on 127.0.0.1:62310
+1669529712169	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileLAWBNd"
+1669529712552	Marionette	INFO	Marionette enabled
+1669529712560	Marionette	INFO	Listening on port 62331
+Read port: 62331
+1669529713157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileLAWBNd\\search.json.mozlz4", (void 0)))
+1669529737419	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1669529754599	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669529765237	Marionette	INFO	Stopped listening on port 62331
+1669529767862	geckodriver	INFO	Listening on 127.0.0.1:62480
+1669529770931	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilebopMtQ"
+1669529771377	Marionette	INFO	Marionette enabled
+1669529771383	Marionette	INFO	Listening on port 62492
+Read port: 62492
+1669529772692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilebopMtQ\\search.json.mozlz4", (void 0)))
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://in.bookmyshow.com/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262 line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669529867359	Marionette	INFO	Stopped listening on port 62492
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://in.bookmyshow.com/app-v3-sw.js?cdnUrlPath=//web-assets-in.bmscdn.com/client/ for scope https://in.bookmyshow.com/events/vivek-samtani-live-a-stand-up-comedy-show/events encountered an error during installation.
+1669529869886	geckodriver	INFO	Listening on 127.0.0.1:62655
+1669529872923	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileoGpDbV"
+1669529873463	Marionette	INFO	Marionette enabled
+1669529873469	Marionette	INFO	Listening on port 62669
+Read port: 62669
+1669529874242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileoGpDbV\\search.json.mozlz4", (void 0)))
+1669529907283	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1669529943026	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669529953928	Marionette	INFO	Stopped listening on port 62669
+1669611340720	geckodriver	INFO	Listening on 127.0.0.1:50806
+1669611343826	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilesEJqMh"
+1669611371459	Marionette	INFO	Marionette enabled
+1669611371505	Marionette	INFO	Listening on port 50822
+Read port: 50822
+Read port: 50822
+1669611374942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilesEJqMh\\search.json.mozlz4", (void 0)))
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/registration/single?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/registration/single?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/registration/single?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669611449028	Marionette	INFO	Stopped listening on port 50822
+1669611451665	geckodriver	INFO	Listening on 127.0.0.1:50940
+1669611454690	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileLnzfxX"
+1669611456183	Marionette	INFO	Marionette enabled
+1669611456190	Marionette	INFO	Listening on port 50954
+Read port: 50954
+1669611458094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileLnzfxX\\search.json.mozlz4", (void 0)))
+1669612085000	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669612089801	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669612105055	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669612110995	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669612111709	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669612112425	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669612113174	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669612114154	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669612114872	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669612115590	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669612116301	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669612116559	Marionette	INFO	Stopped listening on port 50954
+1669612118904	geckodriver	INFO	Listening on 127.0.0.1:51397
+1669612121962	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileGZSBhl"
+1669612122787	Marionette	INFO	Marionette enabled
+1669612122793	Marionette	INFO	Listening on port 51413
+Read port: 51413
+1669612124043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileGZSBhl\\search.json.mozlz4", (void 0)))
+1669612172129	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669612177315	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669612205540	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669612214960	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1669612225753	Marionette	INFO	Stopped listening on port 51413
+1669612227520	geckodriver	INFO	Listening on 127.0.0.1:51608
+1669612230711	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileNvmbFh"
+1669612231097	Marionette	INFO	Marionette enabled
+1669612231104	Marionette	INFO	Listening on port 51621
+Read port: 51621
+1669612231702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileNvmbFh\\search.json.mozlz4", (void 0)))
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1669612294391	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669612296990	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669612307640	Marionette	INFO	Stopped listening on port 51621
+1669612309390	geckodriver	INFO	Listening on 127.0.0.1:51754
+1669612312467	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileggcNuv"
+1669612312874	Marionette	INFO	Marionette enabled
+1669612312881	Marionette	INFO	Listening on port 51767
+Read port: 51767
+1669612315042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileggcNuv\\search.json.mozlz4", (void 0)))
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669612528180	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669612530304	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669612540855	Marionette	INFO	Stopped listening on port 51767
+1669621580887	geckodriver	INFO	Listening on 127.0.0.1:49516
+1669621583097	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileBEKWNc"
+1669621589024	Marionette	INFO	Marionette enabled
+1669621589113	Marionette	INFO	Listening on port 49529
+Read port: 49529
+1669621591444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileBEKWNc\\search.json.mozlz4", (void 0)))
+1669621648835	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1669621680858	Marionette	INFO	Stopped listening on port 49529
+[Parent 17544, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1669621682865	geckodriver	INFO	Listening on 127.0.0.1:49697
+1669621685807	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile1rzd5T"
+1669621687206	Marionette	INFO	Marionette enabled
+1669621687214	Marionette	INFO	Listening on port 49714
+Read port: 49714
+1669621688568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile1rzd5T\\search.json.mozlz4", (void 0)))
+1669621738124	Marionette	INFO	Stopped listening on port 49714
+1669621739371	geckodriver	INFO	Listening on 127.0.0.1:64300
+1669621742418	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilejR2DP2"
+1669621742803	Marionette	INFO	Marionette enabled
+1669621742809	Marionette	INFO	Listening on port 64312
+Read port: 64312
+1669621743965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilejR2DP2\\search.json.mozlz4", (void 0)))
+1669621746883	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1669621750681	Marionette	INFO	Stopped listening on port 64311669621751967	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile8JV2nh"
+1669621752948	Marionette	INFO	Marionette enabled
+1669621752954	Marionette	INFO	Listening on port 64333
+Read port: 64333
+1669621754782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile8JV2nh\\search.json.mozlz4", (void 0)))
+1669621758271	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1669621758422	geckodriver	INFO	Listening on 127.0.0.1:64336
+1669621761543	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileQjeHPB"
+1669621762054	Marionette	INFO	Marionette enabled
+1669621762060	Marionette	INFO	Listening on port 64351
+Read port: 64351
+1669621764065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileQjeHPB\\search.json.mozlz4", (void 0)))
+1669621767635	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1669698369447	geckodriver	INFO	Listening on 127.0.0.1:57933
+1669698371975	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileJbJXa2"
+1669698381092	Marionette	INFO	Marionette enabled
+1669698381125	Marionette	INFO	Listening on port 57948
+Read port: 57948
+1669698383794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileJbJXa2\\search.json.mozlz4", (void 0)))
+1669698719868	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669698725151	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669698743449	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669698752149	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669698752879	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669698753597	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669698754311	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/registration/single?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/registration/single?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/registration/single?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669698759698	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669698765116	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669698765475	Marionette	INFO	Stopped listening on port 57948
+1669698777477	geckodriver	INFO	Listening on 127.0.0.1:58350
+1669698780364	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileTeXdX1"
+1669698785292	Marionette	INFO	Marionette enabled
+1669698785299	Marionette	INFO	Listening on port 58370
+Read port: 58370
+1669698785608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileTeXdX1\\search.json.mozlz4", (void 0)))
+1669699208827	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669699215812	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669699252218	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669699252930	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669699253688	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669699254402	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669699259677	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669699271458	Marionette	INFO	Stopped listening on port 58370
+/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669698949641	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669698950356	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669698951077	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669698951802	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669698952111	Marionette	INFO	Stopped listening on port 58568
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js, line 1: NetworkError: A network error occurred.
+1669699279455	geckodriver	INFO	Listening on 127.0.0.1:59211
+1669699281887	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileXXfgfq"
+1669699294311	Marionette	INFO	Marionette enabled
+1669699294316	Marionette	INFO	Listening on port 59240
+Read port: 59240
+Read port: 59240
+1669699297970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileXXfgfq\\search.json.mozlz4", (void 0)))
+1669699382236	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669699389017	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669699410841	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669699429579	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669699446210	Marionette	INFO	Stopped listening on port 59240
+1669699455978	geckodriver	INFO	Listening on 127.0.0.1:56703
+1669699458871	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileopcM0p"
+1669699463434	Marionette	INFO	Marionette enabled
+1669699463440	Marionette	INFO	Listening on port 56723
+Read port: 56723
+1669699466366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileopcM0p\\search.json.mozlz4", (void 0)))
+1669699526031	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669699534695	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/venues?category=events line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669699584502	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/venue/aaromale---cafe--creative-community-hyderabad/ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669699598785	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1669699607264	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669699610477	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669699611574	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669699614463	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://in.bookmyshow.com/hyderabad/events/vivek-samtani-live-a-stand-up-comedy-show/ET00336262/bookingStep/tickets?city=Hyderabad&date=20221216&time=2000&venueCode=ARME line 546 > injectedScript, line 1: ReferenceError: jQuery is not defined
+1669699616216	Marionette	INFO	Stopped listening on port 56723
+1669699621454	geckodriver	INFO	Listening on 127.0.0.1:57003
+1669699624270	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilerWlLuB"
+1669699628607	Marionette	INFO	Marionette enabled
+1669699628613	Marionette	INFO	Listening on port 57024
+Read port: 57024
+Read port: 57024
+1669699630780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilerWlLuB\\search.json.mozlz4", (void 0)))
